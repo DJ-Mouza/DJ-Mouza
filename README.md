@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+## About Me
+- **Career Goal**: Aspiring DevOps Engineer
+- **Current Role**: Work Coach and In-House Tech Support
+- **Skills**: Python, HTML/CSS, Cloud Computing Basics, IT Troubleshooting, Data Analysis
 
-<!--
-**DJ-Mouza/DJ-Mouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education & Certifications
+- 🎓 **A-levels**: Maths, Physics, Chemistry
+- 📜 **Certifications** (linked on [LinkedIn](https://www.linkedin.com/in/your-profile)):
+  - Introduction to Software Engineering (Coursera)
+  - Introduction to Cloud Computing (Coursera)
+  - Introduction to HTML5 (Coursera)
+  - Introduction to HTML, CSS & JavaScript (Coursera)
+  - Introduction to DevOps (Coursera)
+  - Programming for Everybody (Coursera)
 
-Here are some ideas to get you started:
+## Current Learning
+- 🔥 **100 Days of Python Bootcamp** (Udemy)
+- 🐧 **Linux from Beginner to Master** (Udemy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Coming Soon: Python Automation Scripts, Web Development Projects, and more!
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/david-mouza-265129228/)
